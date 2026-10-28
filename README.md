@@ -36,6 +36,30 @@ penetration-testing and bug-bounty workflows, published on PyPI.
 
 ---
 
+### 🌊 Flagship — [Aether](https://github.com/T9-source/aether)
+
+Local-first, open-source API security proxy in Rust. Intercept, inspect,
+replay and rewrite **HTTP/1 · HTTP/2 · WebSocket** traffic — TLS MITM done
+right (rustls + rcgen CA), a console that stays fast at 100k+ flows, a
+sandboxed **WASM plugin host**, MCP for local AI, and **zero telemetry, ever**.
+
+<p>
+  <a href="https://github.com/T9-source/aether/releases">
+    <img src="https://img.shields.io/github/v/release/T9-source/aether?label=release&style=flat-square&color=58A6FF" alt="Release" />
+  </a>
+  <img src="https://img.shields.io/badge/Rust-1.85+-DEA584?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/license-Apache_2.0-blue?style=flat-square" alt="License" />
+  <a href="https://github.com/T9-source/aether/actions/workflows/ci.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/T9-source/aether/ci.yml?label=CI&style=flat-square" alt="CI" />
+  </a>
+</p>
+
+```bash
+cargo run -p aether-cli -- serve --memory   # up in 30 seconds
+```
+
+---
+
 ### Production systems
 
 | | System | Stack |
