@@ -10,8 +10,8 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=T9-source&label=PROFILE+VIEWS&style=for-the-badge&color=D4AF37&labelColor=0d1117)](https://github.com/T9-source)
-[![Followers](https://img.shields.io/github/followers/T9-source?label=FOLLOWERS&style=for-the-badge&color=D4AF37&labelColor=0d1117)](https://github.com/T9-source?tab=followers)
-[![Stars](https://img.shields.io/github/stars/T9-source?affiliations=OWNER&label=STARS&style=for-the-badge&color=D4AF37&labelColor=0d1117)](https://github.com/T9-source?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/T9-source?label=FOLLOWERS&style=for-the-badge&color=D4AF37&labelColor=0d1117&cacheSeconds=3600)](https://github.com/T9-source?tab=followers)
+[![Stars](https://img.shields.io/github/stars/T9-source?affiliations=OWNER&label=STARS&style=for-the-badge&color=D4AF37&labelColor=0d1117&cacheSeconds=3600)](https://github.com/T9-source?tab=repositories)
 [![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-D4AF37?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d1117)](#-lets-connect)
 
 </div>
@@ -27,11 +27,11 @@ and rewrite HTTP/1 · HTTP/2 · WebSocket traffic — a Rust engine built for
 speed, a virtualized console that stays fast at 100k+ flows, and **zero
 telemetry, ever**.
 
-[![Release](https://img.shields.io/github/v/release/T9-source/aether?label=RELEASE&style=for-the-badge&color=D4AF37&labelColor=0d1117)](https://github.com/T9-source/aether/releases)
+[![Release](https://img.shields.io/github/v/release/T9-source/aether?label=RELEASE&style=for-the-badge&color=D4AF37&labelColor=0d1117&cacheSeconds=3600)](https://github.com/T9-source/aether/releases)
 ![Rust](https://img.shields.io/badge/Rust-1.85+-DEA584?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117)
 ![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge&labelColor=0d1117)
-[![CI](https://img.shields.io/github/actions/workflow/status/T9-source/aether/ci.yml?label=CI&style=for-the-badge&labelColor=0d1117)](https://github.com/T9-source/aether/actions/workflows/ci.yml)
-[![CodeQL](https://img.shields.io/github/actions/workflow/status/T9-source/aether/codeql.yml?label=CodeQL&style=for-the-badge&labelColor=0d1117)](https://github.com/T9-source/aether/actions/workflows/codeql.yml)
+[![CI](https://img.shields.io/github/actions/workflow/status/T9-source/aether/ci.yml?label=CI&style=for-the-badge&labelColor=0d1117&cacheSeconds=3600)](https://github.com/T9-source/aether/actions/workflows/ci.yml)
+[![CodeQL](https://img.shields.io/github/actions/workflow/status/T9-source/aether/codeql.yml?label=CodeQL&style=for-the-badge&labelColor=0d1117&cacheSeconds=3600)](https://github.com/T9-source/aether/actions/workflows/codeql.yml)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/T9-source/aether/badge)](https://api.scorecard.dev/projects/github.com/T9-source/aether)
 
 </div>
