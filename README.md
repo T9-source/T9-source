@@ -102,12 +102,38 @@ pipeline, and confidence-scored results. Built for pentesters & bug bounty hunte
 
 ---
 
+## 🧪 Open Source — vtknet (Evidence-Driven Network Testing)
+
+<div align="center">
+
+### 🧪 [vtknet — every finding ships its proof](https://github.com/T9-source/vtknet)
+
+One pipeline where **everything is a Scapy packet**: build → send → capture →
+structured findings, each backed by the **raw packet hex that proves it**.
+Not an nmap speed-race — it wins at controlled packet crafting, detection
+engineering, and custom-protocol work.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/T9-source/vtknet/ci.yml?label=CI&style=for-the-badge&labelColor=0d1117&cacheSeconds=3600)](https://github.com/T9-source/vtknet/actions/workflows/ci.yml)
+[![License](https://img.shields.io/badge/license-Apache_2.0-blue?style=for-the-badge&labelColor=0d1117)](https://github.com/T9-source/vtknet/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.9%20%7C%203.12-3776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=0d1117)](https://github.com/T9-source/vtknet)
+[![Tests](https://img.shields.io/badge/tests-119%20offline-17A05D?style=for-the-badge&labelColor=0d1117)](https://github.com/T9-source/vtknet/actions)
+
+`TCP scan (SYN/NULL/FIN/XMAS/ACK)` · `TLS fingerprint + X.509 audit` ·
+`QUIC RFC 9000 probe` · `seeded fuzzer with crash evidence` ·
+`seeded IDS scenarios` · `WiFi deauth/evil-twin detection` ·
+`ARP MITM with guaranteed restore` · `plugin contract` · `reproducible lab`
+
+</div>
+
+---
+
 ## 🌐 Live Systems
 
 <div align="center">
 
 | ✦ | System | Stack |
 |---|---|---|
+| 🚕 | **[Super — مواصلات مصر](https://super-chi-nine.vercel.app)** | Next.js · React · 27 governorates · live dispatch · cash payments |
 | 🍳 | **[Gadgeta — Magic & Innovation](https://gadgate.vercel.app)** | Next.js 16 · Prisma · Neon Postgres |
 | 👞 | **[Yalla Shiaka — Shoes Store](https://yallashiaka.vercel.app)** | Next.js 16 · Prisma · Admin & Supervisors |
 | 🔧 | **[Noor Center — Maintenance System](https://noorcenter.gt.tc)** | Laravel · MySQL · Role-based |
@@ -152,6 +178,8 @@ pipeline, and confidence-scored results. Built for pentesters & bug bounty hunte
 |---|---|
 | 🌊 **[Aether](https://github.com/T9-source/aether)** → [**v0.2.1**](https://github.com/T9-source/aether/releases/tag/0.2.1) | **Flagship** API security proxy in Rust — MITM h1/h2/WS · 100k-flow console · sandboxed WASM plugin host · MCP for local AI · fuzzed + Scorecard-hardened · zero telemetry |
 | 🔓 **[CloudFail-Killer (CloudKill)](https://github.com/T9-source/cloudfail-killer)** → [**PyPI**](https://pypi.org/project/cloudkill/) | **Flagship security tool** — origin-IP discovery behind Cloudflare · 15+ sources · 343 tests · SARIF & signed reports |
+| 🧪 **[vtknet](https://github.com/T9-source/vtknet)** → [**v0.4.0**](https://github.com/T9-source/vtknet/releases/tag/0.4.0) | Evidence-driven network testing on Scapy — every finding ships the packet hex that proves it · 11 modules · plugin contract · 119 offline tests |
+| 🚕 **[Super — مواصلات مصر](https://super-chi-nine.vercel.app)** → [**LIVE**](https://super-chi-nine.vercel.app) | 🚕 Egyptian ride-hailing platform — 27 governorates · live captain dispatch · cash payments · v2.0 |
 | 🛵 **[Otlobny — اطلبني](https://otlobny-chi.vercel.app)** → [**LIVE**](https://otlobny-chi.vercel.app/) | 🚀 Zone-locked delivery platform — Android (native Java) · Web · Admin dashboard · Restaurant self-service portal · 30s live dispatch · 0 security findings |
 | 🔧 **[Noor Center](https://noorcenter.gt.tc)** → [**LIVE**](https://noorcenter.gt.tc) | 🔧 Maintenance-center management system — Laravel · MySQL · roles |
 | 🍳 **[Gadgeta Store](https://gadgate.vercel.app)** → [**LIVE**](https://gadgate.vercel.app) | 🍳 Magic & Innovation e-commerce — golden deals · coupons · Neon Postgres |
@@ -229,8 +257,8 @@ pipeline, and confidence-scored results. Built for pentesters & bug bounty hunte
 
 <div align="center">
 
-[![🥇 5 LIVE SYSTEMS](https://img.shields.io/badge/🥇-5_LIVE_SYSTEMS-D4AF37?style=for-the-badge&labelColor=0d1117)](https://github.com/T9-source?tab=repositories)
-[![📦 10+ REPOSITORIES](https://img.shields.io/badge/📦-10%2B_REPOSITORIES-D4AF37?style=for-the-badge&labelColor=0d1117)](https://github.com/T9-source?tab=repositories)
+[![🥇 6 LIVE SYSTEMS](https://img.shields.io/badge/🥇-6_LIVE_SYSTEMS-D4AF37?style=for-the-badge&labelColor=0d1117)](https://github.com/T9-source?tab=repositories)
+[![📦 11+ REPOSITORIES](https://img.shields.io/badge/📦-11%2B_REPOSITORIES-D4AF37?style=for-the-badge&labelColor=0d1117)](https://github.com/T9-source?tab=repositories)
 [![🌊 AETHER 0.2.1 RELEASED](https://img.shields.io/badge/🌊-AETHER_0.2.1_RELEASED-D4AF37?style=for-the-badge&labelColor=0d1117)](https://github.com/T9-source/aether/releases)
 [![🔓 CLOUDKILL ON PYPI](https://img.shields.io/badge/🔓-CLOUDKILL_ON_PYPI-D4AF37?style=for-the-badge&labelColor=0d1117)](https://pypi.org/project/cloudkill/)
 [🛵 OTLOBNY v2.1 LIVE](https://img.shields.io/badge/🛵-OTLOBNY_v2.1_LIVE-0098B0?style=for-the-badge&labelColor=0d1117)
