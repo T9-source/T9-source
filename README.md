@@ -114,14 +114,16 @@ Not an nmap speed-race — it wins at controlled packet crafting, detection
 engineering, and custom-protocol work.
 
 [![CI](https://img.shields.io/github/actions/workflow/status/T9-source/vtknet/ci.yml?label=CI&style=for-the-badge&labelColor=0d1117&cacheSeconds=3600)](https://github.com/T9-source/vtknet/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/T9-source/vtknet?label=release&style=for-the-badge&color=D4AF37&labelColor=0d1117&cacheSeconds=3600)](https://github.com/T9-source/vtknet/releases)
 [![License](https://img.shields.io/badge/license-Apache_2.0-blue?style=for-the-badge&labelColor=0d1117)](https://github.com/T9-source/vtknet/blob/main/LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.9%20%7C%203.12-3776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=0d1117)](https://github.com/T9-source/vtknet)
-[![Tests](https://img.shields.io/badge/tests-119%20offline-17A05D?style=for-the-badge&labelColor=0d1117)](https://github.com/T9-source/vtknet/actions)
+[![Tests](https://img.shields.io/badge/tests-187%20offline-17A05D?style=for-the-badge&labelColor=0d1117)](https://github.com/T9-source/vtknet/actions)
 
 `TCP scan (SYN/NULL/FIN/XMAS/ACK)` · `TLS fingerprint + X.509 audit` ·
 `QUIC RFC 9000 probe` · `seeded fuzzer with crash evidence` ·
 `seeded IDS scenarios` · `WiFi deauth/evil-twin detection` ·
-`ARP MITM with guaranteed restore` · `plugin contract` · `reproducible lab`
+`ARP MITM with guaranteed restore` · `SQLite run history + report --diff` ·
+`DNS divergence / rogue-DHCP detection` · `vtk inspect (hex → layers)` ·
+`concurrent engine (--workers)` · `hostile-pcap hardening` · `plugin contract`
 
 </div>
 
@@ -178,7 +180,7 @@ engineering, and custom-protocol work.
 |---|---|
 | 🌊 **[Aether](https://github.com/T9-source/aether)** → [**v0.2.1**](https://github.com/T9-source/aether/releases/tag/0.2.1) | **Flagship** API security proxy in Rust — MITM h1/h2/WS · 100k-flow console · sandboxed WASM plugin host · MCP for local AI · fuzzed + Scorecard-hardened · zero telemetry |
 | 🔓 **[CloudFail-Killer (CloudKill)](https://github.com/T9-source/cloudfail-killer)** → [**PyPI**](https://pypi.org/project/cloudkill/) | **Flagship security tool** — origin-IP discovery behind Cloudflare · 15+ sources · 343 tests · SARIF & signed reports |
-| 🧪 **[vtknet](https://github.com/T9-source/vtknet)** → [**v0.4.0**](https://github.com/T9-source/vtknet/releases/tag/0.4.0) | Evidence-driven network testing on Scapy — every finding ships the packet hex that proves it · 11 modules · plugin contract · 119 offline tests |
+| 🧪 **[vtknet](https://github.com/T9-source/vtknet)** → [**v0.7.0**](https://github.com/T9-source/vtknet/releases/tag/0.7.0) | Evidence-driven network testing on Scapy — every finding ships the packet hex that proves it · SQLite run history + `report --diff` · DNS/rogue-DHCP detection · concurrent engine · hostile-pcap hardening · 187 offline tests |
 | 🚕 **[Super — مواصلات مصر](https://super-chi-nine.vercel.app)** → [**LIVE**](https://super-chi-nine.vercel.app) | 🚕 Egyptian ride-hailing platform — 27 governorates · live captain dispatch · cash payments · v2.0 |
 | 🛵 **[Otlobny — اطلبني](https://otlobny-chi.vercel.app)** → [**LIVE**](https://otlobny-chi.vercel.app/) | 🚀 Zone-locked delivery platform — Android (native Java) · Web · Admin dashboard · Restaurant self-service portal · 30s live dispatch · 0 security findings |
 | 🔧 **[Noor Center](https://noorcenter.gt.tc)** → [**LIVE**](https://noorcenter.gt.tc) | 🔧 Maintenance-center management system — Laravel · MySQL · roles |
