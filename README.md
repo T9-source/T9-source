@@ -141,6 +141,7 @@ engineering, and custom-protocol work.
 | 🔧 | **[Noor Center — Maintenance System](https://noorcenter.gt.tc)** | Laravel · MySQL · Role-based |
 | 🛵 | **[اطلبني — Zone Delivery App](https://otlobny-chi.vercel.app)** | Android APK · Web App · Admin Panel · V2 |
 | 💼 | **[My Portfolio](https://jemyv2.vercel.app)** | Next.js 16 · React 19 · bilingual & dark-first |
+| 🖥️ | **[Portfolio — Terminal Edition](https://011-jemy.vercel.app)** | Next.js 16 · React 19 · TypeScript · canvas FX engine · live showreel |
 
 </div>
 
@@ -188,6 +189,7 @@ engineering, and custom-protocol work.
 | 👞 **[Yalla Shiaka Store](https://yallashiaka.vercel.app)** → [**LIVE**](https://yallashiaka.vercel.app) | 🥾 E-commerce with admin & supervisor dashboards — Next.js · Prisma |
 | [**Cinematic Landings**](https://github.com/T9-source/monolith-landing) | ⬡ MONOLITH · OBLIVION · ECHO · NOVA — WebGL experiences, zero build |
 | 💼 **[Portfolio Website](https://jemyv2.vercel.app)** → [**LIVE**](https://jemyv2.vercel.app) | 💼 Bilingual (AR/EN) portfolio — Next.js 16 · React 19 · dark-first · live GitHub dashboard |
+| 🖥️ **[Portfolio 011 — Terminal Edition](https://011-jemy.vercel.app)** → [**LIVE**](https://011-jemy.vercel.app) | 🖥️ Terminal-styled portfolio — Next.js 16 · React 19 · TypeScript · canvas FX engine · live showreel |
 
 ---
 
